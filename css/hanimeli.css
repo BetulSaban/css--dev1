@@ -1,0 +1,21 @@
+.nav-bar 
+{ font-size: 20px;
+text-align: center; }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+    li{float: left;
+    display: inline;
+    display: block;
+        padding: 14px 16px;
+        background-color: #ccc;
+        text-decoration: none;
+        color: #000000;}
+        
+     
+    
+
+
